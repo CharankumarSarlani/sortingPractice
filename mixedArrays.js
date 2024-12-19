@@ -8,7 +8,7 @@ const mixedArray = function (array) {
       return 1;
     }
 
-    return a - b;
+    //return a - b;
   });
 
 };
